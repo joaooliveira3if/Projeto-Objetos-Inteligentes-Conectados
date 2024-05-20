@@ -1,0 +1,9 @@
+1 Placa Arduíno Uno
+1 Placa NodeMCU - ASP32                                                                                                                                                                                                                                                                                                                                                                                                                                               
+1 Lâmpada Led 7w                                                                                                                                          
+1 Atuador Relé de Estado Sólido                                                                                                          
+1 Sensor de Som KY-038                                                                                                                                                       
+1 Protoboard                                                                                                                     
+Cabos Jumper                                                                                                                                                                       
+1 Cabo de Conexão com o Computador/IDE Arduino
+1 Cabo Usb C
